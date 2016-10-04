@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MQService5X", "MQService5X.vbproj", "{2FCD09BE-ECD8-4077-AA52-8E9599202B3D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MQServiceSetup", "..\MQSchedulerSetup\MQServiceSetup5X.vdproj", "{40626199-469F-4E33-B1A3-D9B24EDC0459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCD09BE-ECD8-4077-AA52-8E9599202B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCD09BE-ECD8-4077-AA52-8E9599202B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCD09BE-ECD8-4077-AA52-8E9599202B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCD09BE-ECD8-4077-AA52-8E9599202B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40626199-469F-4E33-B1A3-D9B24EDC0459}.Debug|Any CPU.ActiveCfg = Debug
+		{40626199-469F-4E33-B1A3-D9B24EDC0459}.Debug|Any CPU.Build.0 = Debug
+		{40626199-469F-4E33-B1A3-D9B24EDC0459}.Release|Any CPU.ActiveCfg = Release
+		{40626199-469F-4E33-B1A3-D9B24EDC0459}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

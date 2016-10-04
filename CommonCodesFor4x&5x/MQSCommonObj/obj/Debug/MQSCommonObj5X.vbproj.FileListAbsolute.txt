@@ -1,0 +1,9 @@
+E:\Solutions\MQS5_9_0_0\mqsserver\bin\Debug\MQSCommonObj.dll
+E:\Solutions\MQS5_9_0_0\mqsserver\bin\Debug\MQSCommonObj.pdb
+E:\Solutions\MQS5_9_0_0\mqsserver\bin\Debug\MQSCommonObj.xml
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj5X.vbprojResolveAssemblyReference.cache
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj.Resources.resources
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj5X.vbproj.GenerateResource.Cache
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj.dll
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj.xml
+E:\Solutions\MQS5_9_0_0\CommonCodesFor4x&5x\MQSCommonObj\obj\Debug\MQSCommonObj.pdb
